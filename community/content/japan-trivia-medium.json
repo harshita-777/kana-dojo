@@ -322,5 +322,16 @@
     "Shodo"
   ],
   "correctIndex": 0
+},
+{
+"question": "What is the name of Japan’s largest lake?",
+"difficulty": "medium",
+"answers": [
+  "Lake Biwa",
+  "Lake Towada",
+  "Lake Ashi",
+  "Lake Shinji"
+],
+"correctIndex": 0
 }
 ]
