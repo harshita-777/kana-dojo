@@ -16,7 +16,7 @@
     "game": "Fate/stay night [Realta Nua]",
     "character": "Saber",
     "id": 2,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -186,7 +186,7 @@
     "game": "Tales series",
     "character": "Various endings",
     "id": 19,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -226,7 +226,7 @@
     "game": "Tales of the Abyss",
     "character": "Luke fon Fabre",
     "id": 23,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -246,7 +246,7 @@
     "game": "Danganronpa series",
     "character": "Makoto Naegi",
     "id": 25,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -366,7 +366,7 @@
     "game": "Persona 5 Strikers",
     "character": "Joker",
     "id": 37,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -466,7 +466,7 @@
     "game": "Dragon Quest series",
     "character": "Recurring command voice",
     "id": 47,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -506,7 +506,7 @@
     "game": "Monster Hunter series",
     "character": "Guild Handler lines",
     "id": 51,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -676,7 +676,7 @@
     "game": "Kingdom Hearts series (JP dub)",
     "character": "Sora",
     "id": 68,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -806,7 +806,7 @@
     "game": "The Prince of Tennis: Sweat & Tears 2",
     "character": "Ryoma Echizen",
     "id": 81,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -906,7 +906,7 @@
     "game": "Monster Hunter series",
     "character": "Guild Handler lines",
     "id": 91,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -956,7 +956,7 @@
     "game": "Onimusha series",
     "character": "Nobunaga Oda",
     "id": 96,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -966,7 +966,7 @@
     "game": "Persona 5 Strikers",
     "character": "Joker",
     "id": 97,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1076,7 +1076,7 @@
     "game": "Kingdom Hearts series (JP dub)",
     "character": "Sora",
     "id": 108,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1146,7 +1146,7 @@
     "game": "Fire Emblem series",
     "character": "Various protagonists",
     "id": 115,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1196,7 +1196,7 @@
     "game": "Samurai game proverb line",
     "character": "Musashi reference",
     "id": 120,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {

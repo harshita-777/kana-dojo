@@ -2,7 +2,7 @@
   {
     "id": 1,
     "fact": "Japan has a word 'kuchisabishii' (口寂しい) that literally means 'lonely mouth' - the feeling of eating when you're not hungry, just because your mouth wants something to do.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -188,7 +188,7 @@
   {
     "id": 32,
     "fact": "The practice of 'nemawashi' (根回し) means building consensus before a meeting so decisions appear unanimous - the actual negotiation happens beforehand.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -212,7 +212,7 @@
   {
     "id": 36,
     "fact": "Japan has a 'Black Company' award given to employers with the worst working conditions - a form of public shaming for labor violations.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -296,7 +296,7 @@
   {
     "id": 50,
     "fact": "Japanese farmers grow cubic watermelons in glass boxes - not for taste but because they're easier to stack and refrigerate.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -728,7 +728,7 @@
   {
     "id": 122,
     "fact": "Japan has 'anti-lonely death' services that check on elderly living alone and arrange their affairs if they pass away.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -854,7 +854,7 @@
   {
     "id": 143,
     "fact": "There's a Japanese word 'giri' (義理) for social obligation - you give gifts and attend events because you must, not because you want to.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1088,7 +1088,7 @@
   {
     "id": 182,
     "fact": "Japan has over 1,500 earthquakes per year, though most are too small to feel - the country sits on four tectonic plates.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1214,7 +1214,7 @@
   {
     "id": 203,
     "fact": "Japan's elementary school students often clean their classrooms themselves in a routine called 'souji' (掃除), teaching responsibility.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1316,7 +1316,7 @@
   {
     "id": 220,
     "fact": "The Japanese word 'senpai' (先輩) and 'kouhai' (後輩) describe a senior-junior relationship that shapes school and workplace culture.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1412,7 +1412,7 @@
   {
     "id": 236,
     "fact": "The concept of 'yoin' (余韻) refers to the lingering aftertaste or feeling, and is used for everything from tea to music performances.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1742,7 +1742,7 @@
   {
     "id": 291,
     "fact": "Japan’s name for the rainy season, 'tsuyu' (梅雨), literally means 'plum rain' because it coincides with the ripening of ume plums.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1784,7 +1784,7 @@
   {
     "id": 298,
     "fact": "The term 'kintsugi' (金継ぎ) refers to repairing ceramics with gold, embracing cracks as part of an object’s history.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1796,7 +1796,7 @@
   {
     "id": 300,
     "fact": "A 'hikimono' (引き物) is a small parting gift given at weddings, often a set of sweets or tea.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1892,7 +1892,7 @@
   {
     "id": 316,
     "fact": "The term 'shinnen' (信念) means conviction or strongly held belief, often tied to personal principles.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {

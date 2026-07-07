@@ -5,7 +5,7 @@
     "dont": "片手で受け取ってすぐポケットに入れる",
     "note": "商談中は机上に置くのが一般的。",
     "id": 1,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -14,7 +14,7 @@
     "dont": "土足で室内に上がる",
     "note": "家庭・旅館では基本マナー。",
     "id": 2,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -59,7 +59,7 @@
     "dont": "参道の中央を歩く",
     "note": "中央は神様の通り道とされる。",
     "id": 7,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -185,7 +185,7 @@
     "dont": "片手で受け取ってすぐポケットに入れる",
     "note": "商談中は机上に置くのが一般的。",
     "id": 21,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -203,7 +203,7 @@
     "dont": "通話を続ける",
     "note": "混雑時は特に配慮する。",
     "id": 23,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -230,7 +230,7 @@
     "dont": "ご飯に箸を立てる",
     "note": "立て箸は弔事連想のため避ける。",
     "id": 26,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -266,7 +266,7 @@
     "dont": "割り込む",
     "note": "駅・店頭では順番厳守。",
     "id": 30,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -392,7 +392,7 @@
     "dont": "無言で食べ始める",
     "note": "感謝を示す慣習。",
     "id": 44,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -590,7 +590,7 @@
     "dont": "ご飯に箸を立てる",
     "note": "立て箸は弔事連想のため避ける。",
     "id": 66,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -635,7 +635,7 @@
     "dont": "値段を強調する",
     "note": "謙遜表現が好まれる。",
     "id": 71,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -680,7 +680,7 @@
     "dont": "先に一人で飲み始める",
     "note": "場の一体感を重視。",
     "id": 76,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -914,7 +914,7 @@
     "dont": "土足で室内に上がる",
     "note": "家庭・旅館では基本マナー。",
     "id": 102,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -923,7 +923,7 @@
     "dont": "通話を続ける",
     "note": "混雑時は特に配慮する。",
     "id": 103,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -986,7 +986,7 @@
     "dont": "割り込む",
     "note": "駅・店頭では順番厳守。",
     "id": 110,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1031,7 +1031,7 @@
     "dont": "現金を投げるように渡す",
     "note": "丁寧で非接触な受け渡し。",
     "id": 115,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {

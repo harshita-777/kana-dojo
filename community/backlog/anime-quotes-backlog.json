@@ -236,7 +236,7 @@
     "english": "I think you should just laugh.",
     "anime": "Neon Genesis Evangelion",
     "character": "Rei Ayanami",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -306,7 +306,7 @@
     "english": "Gurararara!",
     "anime": "One Piece",
     "character": "Edward Newgate (Whitebeard)",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -387,7 +387,7 @@
     "anime": "Jujutsu Kaisen",
     "character": "Satoru Gojo",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 40,
@@ -407,7 +407,7 @@
     "anime": "Sailor Moon",
     "character": "Usagi Tsukino",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 42,
@@ -596,7 +596,7 @@
     "english": "Ora ora ora ora ora! (alt wording 8)",
     "anime": "JoJo's Bizarre Adventure: Stardust Crusaders",
     "character": "Jotaro Kujo",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -676,7 +676,7 @@
     "english": "But... that's what I like. (alt wording 16)",
     "anime": "JoJo's Bizarre Adventure: Diamond is Unbreakable",
     "character": "Yoshikage Kira",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -706,7 +706,7 @@
     "english": "What?! (alt wording 19)",
     "anime": "Fist of the North Star",
     "character": "Shin",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -826,7 +826,7 @@
     "english": "Gurararara! (alt wording 31)",
     "anime": "One Piece",
     "character": "Edward Newgate (Whitebeard)",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -926,7 +926,7 @@
     "english": "In the name of the moon, I'll punish you! (alt wording 41)",
     "anime": "Sailor Moon",
     "character": "Usagi Tsukino",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -946,7 +946,7 @@
     "english": "As long as I have something to protect, I won't lose. (alt wording 43)",
     "anime": "Bleach",
     "character": "Ichigo Kurosaki",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1026,7 +1026,7 @@
     "english": "Running away can take courage too. (alt wording 51)",
     "anime": "Mob Psycho 100",
     "character": "Arataka Reigen",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1186,7 +1186,7 @@
     "english": "Good grief... honestly. (alt wording 15) (alt wording 67)",
     "anime": "JoJo's Bizarre Adventure: Stardust Crusaders",
     "character": "Jotaro Kujo",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1316,7 +1316,7 @@
     "english": "Fosh fosh fosh fosh. (alt wording 28) (alt wording 80)",
     "anime": "One Piece",
     "character": "Kozuki Sukiyaki",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1356,7 +1356,7 @@
     "english": "Ze ha ha ha! (alt wording 32) (alt wording 84)",
     "anime": "One Piece",
     "character": "Marshall D. Teach (Blackbeard)",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1386,7 +1386,7 @@
     "english": "A lesson without pain is meaningless. (alt wording 35) (alt wording 87)",
     "anime": "Fullmetal Alchemist: Brotherhood",
     "character": "Edward Elric",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
