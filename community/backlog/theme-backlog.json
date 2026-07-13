@@ -1318,8 +1318,10 @@
     "backgroundColor": "oklch(18.0% 0.055 330.0 / 1)",
     "mainColor": "oklch(72.0% 0.195 35.0 / 1)",
     "secondaryColor": "oklch(85.0% 0.095 275.0 / 1)",
-    "issued": true,
-    "completed": false
+    "issued": false,
+    "completed": false,
+    "completedBy": "Peeyush3587",
+    "completedPR": 24279
   },
   {
     "id": "spring-bamboo",
